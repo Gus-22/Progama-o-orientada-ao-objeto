@@ -1,0 +1,14 @@
+C:\Users\Gus\source\repos\ex_prova\ex_prova\bin\Debug\net8.0\ex_prova.exe
+C:\Users\Gus\source\repos\ex_prova\ex_prova\bin\Debug\net8.0\ex_prova.deps.json
+C:\Users\Gus\source\repos\ex_prova\ex_prova\bin\Debug\net8.0\ex_prova.runtimeconfig.json
+C:\Users\Gus\source\repos\ex_prova\ex_prova\bin\Debug\net8.0\ex_prova.dll
+C:\Users\Gus\source\repos\ex_prova\ex_prova\bin\Debug\net8.0\ex_prova.pdb
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.AssemblyInfoInputs.cache
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.AssemblyInfo.cs
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.csproj.CoreCompileInputs.cache
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.dll
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\refint\ex_prova.dll
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.pdb
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ex_prova.genruntimeconfig.cache
+C:\Users\Gus\source\repos\ex_prova\ex_prova\obj\Debug\net8.0\ref\ex_prova.dll
